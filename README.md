@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI,ML,DL**
 
-- 💬 Ask me about **Flutter, Angular**
+- 💬 Ask me about **Flutter, Angular, Spring Boot**
 
 - ⚡ Fun fact **I love to sleep** ✨
 
