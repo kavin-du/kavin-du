@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-du&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-du" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" >
+<img align="right" alt="coding" width="400" src="https://github.com/kavin-du/kavin-du/assets/59405594/f4fa2777-2c26-4207-b74d-35e900fd7a2c" >
 
 - 🔭 I’m currently working on [Using CV and ABM to Explore the Human Elephant Conflict](https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict)
 
@@ -11,7 +11,6 @@
 - 💬 Ask me about **Flutter, Angular, Spring Boot**
 
 - ⚡ Fun fact **I love to sleep** ✨
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-du&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
