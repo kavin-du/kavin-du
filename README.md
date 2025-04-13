@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **Flutter, Angular, Spring Boot**
 
-- ⚡ Fun fact **I love to sleep** ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-du&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
